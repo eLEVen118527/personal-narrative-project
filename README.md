@@ -29,12 +29,16 @@ Record a short video of your story to display here on your README. You can do th
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my project](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my project](Nail.png)](Swim.png)
 
 ## Story Description
 
 Write a description of the story that your animation showcases. Give additional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcases.
 
+my animation tells a peice of my life which is two activities that I genuinely enjoy and that represent different part of me. The animation is divided into two Scenes with each one focusing on one interest. I used visuals and different colors to show some images of my interests which was swimming and doing nails. 
+
 ## Image Filter Analysis
 
 Choose at least 2 filters used in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+
+my animation project uses two image filters to modify images at the pixel level in order to create a consitent style and enhancing the mood of the scene and images. The two filters that were used in my project are the color shift filter and colorize. I didn't need to make any new filters for this project because I already had them. 
